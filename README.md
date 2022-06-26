@@ -2,9 +2,9 @@
 
 My name is **Victor Hugo Simões** and I am studying in a Bootcamp at Driven Education to become a **Full Stack Developer at December 2022**! I am also finishing my chemical engineering course at Federal University of Rio de Janeiro! 
 
-In the past of **2 months of Bootcamp** (May 16th,2022) I could already have finished **8 outstanding web applications front-end projects**! 
+In the past of **3 months of Bootcamp** (June 25th,2022) I could already have finished **10 outstanding web applications front-end projects and 2 web applications back-end projects**! 
 
-I've been working with **React**, **Javascript**, **CSS** and **HTML**, but I have interests in learning others languages like **Node**, **Java** and **Typescript**. 
+I've been working with **Node.js**,**React.js**, **Javascript**, **CSS** and **HTML**, but I have interests in learning others languages like **Java** and **Typescript**. 
 
 #### Some facts about me: 
 
