@@ -7,6 +7,20 @@ In the past of **6 months of Bootcamp** (Sep. 22th,2022), I could already have f
 I've been working with **TypeScript**, **Postgres**, **MongoDB**, **Prisma**, **Node.js**,**React.js**, **Javascript**, **CSS** and **HTML**, but I have interest in learning others languages **Java** and **React Native**. 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 24 March 2022 - To: 23 September 2022
+
+Total Time: 541 hrs 15 mins
+
+JavaScript   349 hrs 54 mins >>>>>>>>>>>>>>>>---------   64.65 %
+TypeScript   72 hrs 49 mins  >>>----------------------   13.45 %
+CSS          60 hrs 29 mins  >>>----------------------   11.18 %
+HTML         30 hrs 16 mins  >------------------------   05.59 %
+JSON         8 hrs 11 mins   -------------------------   01.51 %
+Bash         6 hrs 44 mins   -------------------------   01.25 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Some facts about me: 
