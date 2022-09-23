@@ -39,7 +39,6 @@ Bash         6 hrs 44 mins   -------------------------   01.25 %
   <p style="font-weight:700;font-size:20px"> Front-End </p>
   <img align="left" alt="HTML5" height="40px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="left" alt="CSS3" height="40px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="left" alt="JavaScript" height="40px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img align="left" alt="React" height="40px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </div>
 <br />
@@ -70,6 +69,7 @@ Bash         6 hrs 44 mins   -------------------------   01.25 %
 <br />
 <div>
    <p style="font-weight:700;font-size:20px"> Languages </p>
+   <img align="left" alt="JavaScript" height="40px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
    <img align="left" alt="Typescript" height="40px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img align="left" alt="Fortran" height="40px" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"/>
 </div>
