@@ -2,9 +2,12 @@
 
 My name is **Victor Hugo Simões** and I am studying in a Bootcamp at Driven Education to become a **Full Stack Developer at December 2022**! I am also finishing my chemical engineering course at Federal University of Rio de Janeiro! 
 
-In the past of **4 months of Bootcamp** (July 18th,2022) I could already have finished **10 outstanding web applications front-end projects, 2 web applications back-end projects and 2 web applications full stack projects**! 
+In the past of **6 months of Bootcamp** (Sep. 22th,2022), I could already have finished **10 outstanding web applications front-end projects, 7 web applications back-end projects and 3 web applications full stack projects**!
 
-I've been working with **MongoDB**, **Node.js**,**React.js**, **Javascript**, **CSS** and **HTML**, but I have interests in learning others languages like **Java** and **Typescript**. 
+I've been working with **TypeScript**, **Postgres**, **MongoDB**, **Prisma**, **Node.js**,**React.js**, **Javascript**, **CSS** and **HTML**, but I have interest in learning others languages **Java** and **React Native**. 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 #### Some facts about me: 
 
@@ -18,33 +21,72 @@ I've been working with **MongoDB**, **Node.js**,**React.js**, **Javascript**, **
 
 
 #### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
-<img align="left" alt="React" src="https://badges.aleen42.com/src/react.svg" />
-<img align="left" alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-
+<div>
+  <p style="font-weight:700;font-size:20px"> Front-End </p>
+  <img align="left" alt="HTML5" height="40px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="left" alt="CSS3" height="40px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="left" alt="JavaScript" height="40px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img align="left" alt="React" height="40px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</div>
+<br />
+<br />
+<div>
+  <p style="font-weight:700;font-size:20px"> Back-End </p>
+  <img align="left" alt="Node" height="40px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="left" alt="NPM" height="40px"  src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+</div>
+  <img align="left" alt="Express" height="40px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+</div>
+<br />
+<br />
+<div>
+  <p style="font-weight:700;font-size:20px"> DataBase and ORM </p>
+  <img align="left" alt="MongoDB" height="40px"  src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img align="left" alt="Postgres" height="40px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="left" alt="Prisma" height="40px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+</div>
+<br />
+<br />
+<div>
+  <p style="font-weight:700;font-size:20px"> Tests </p>
+  <img align="left" alt="Cypress" height="40px" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
+  <img align="left" alt="Jest" height="40px" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+</div>
+<br />
+<br />
+<div>
+   <p style="font-weight:700;font-size:20px"> Languages </p>
+   <img align="left" alt="Typescript" height="40px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img align="left" alt="Fortran" height="40px" src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white"/>
+</div>
+<br />
+<br />
+<div>
+  <p style="font-weight:700; font-size:20px"> IDEs/Editors </p>
+  <img align="left" alt="Visual Studio Code" height="40px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<div>
+ 
 <br />
 <br />
 
 
-<details>
-  <summary>GitHub Stats</summary>
+<div>
+  <details>
+  <summary >GitHub Stats</summary>
 
   <img align="left" alt="Victor Hugo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VicterHuger&show_icons=true&hide_border=true" />
 
 </details>
-
-<details>
+</div>
+<br />
+<br />
+<div>
+  <details>
   <summary>Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicterHuger" />
+<img align="left" alt="Victor Hugo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicterHuger" />
 
 </details>
+</div>
 
 
