@@ -9,7 +9,7 @@ I've been working with **TypeScript**, **Postgres**, **MongoDB**, **Prisma**, **
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 02 October 2022
+From: 24 March 2022 - To: 03 October 2022
 
 Total Time: 571 hrs 7 mins
 
