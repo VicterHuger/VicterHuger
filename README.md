@@ -6,6 +6,8 @@ In the past of **7 months of Bootcamp** (Out. 17th,2022), I could already have f
 
 I've been working with **TypeScript**, **Postgres**, **MongoDB**, **Prisma**, **Node.js**,**React.js**, **Javascript**, **CSS** and **HTML**, but I have interest in learning others languages **Java** and **React Native**. 
 
+[![wakatime](https://wakatime.com/badge/user/b2f5c0ff-9b1c-4d58-9d1d-3119af5359d0.svg)](https://wakatime.com/@b2f5c0ff-9b1c-4d58-9d1d-3119af5359d0)
+
 <!--START_SECTION:waka-->
 
 ```text
