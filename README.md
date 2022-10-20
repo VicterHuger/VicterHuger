@@ -33,7 +33,15 @@ Other                      13 hrs 25 mins  >------------------------   02.07 %
 
 
 #### If you want to know more about me:
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugosimoes/)
+
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugosimoes/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugobs@eq.ufrj.br)
+ 
+
+
+
+
+
 
 
 #### Languages and Tools:
