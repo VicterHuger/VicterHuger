@@ -38,12 +38,6 @@ Other                      13 hrs 25 mins  >------------------------   02.07 %
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugobs@eq.ufrj.br)
  
 
-
-
-
-
-
-
 #### Languages and Tools:
 <div>
   <p style="font-weight:700;font-size:20px"> Front-End </p>
@@ -92,25 +86,13 @@ Other                      13 hrs 25 mins  >------------------------   02.07 %
  
 <br />
 <br />
-
-
-<div>
-  <details>
-  <summary >GitHub Stats</summary>
-
-  <img align="left" alt="Victor Hugo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VicterHuger&show_icons=true&hide_border=true" />
-
-</details>
-</div>
 <br />
-<br />
-<div>
-  <details>
-  <summary>Most Used Languages</summary>
 
-<img align="left" alt="Victor Hugo's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicterHuger" />
-
-</details>
+<div align="center">
+  <a href="https://github.com/VicterHuger">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VicterHuger&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicterHuger&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
 
 
