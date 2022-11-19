@@ -11,7 +11,7 @@ I've been working with **TypeScript**, **Postgres**, **MongoDB**, **Prisma**, **
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 17 November 2022
+From: 24 March 2022 - To: 18 November 2022
 
 Total Time: 721 hrs 45 mins
 
