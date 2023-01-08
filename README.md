@@ -11,16 +11,16 @@ I've been working with **TypeScript**, **Postgres**, **MongoDB**, **Prisma**, **
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 06 January 2023
+From: 24 March 2022 - To: 07 January 2023
 
-Total Time: 781 hrs 9 mins
+Total Time: 784 hrs 1 min
 
-JavaScript                 417 hrs 4 mins  >>>>>>>>>>>>>------------   53.39 %
-TypeScript                 175 hrs 32 mins >>>>>>-------------------   22.47 %
-CSS                        66 hrs 43 mins  >>-----------------------   08.54 %
-HTML                       35 hrs 11 mins  >------------------------   04.51 %
-JSON                       22 hrs 47 mins  >------------------------   02.92 %
-Other                      18 hrs 25 mins  >------------------------   02.36 %
+JavaScript                 417 hrs 4 mins  >>>>>>>>>>>>>------------   53.20 %
+TypeScript                 178 hrs 21 mins >>>>>>-------------------   22.75 %
+CSS                        66 hrs 43 mins  >>-----------------------   08.51 %
+HTML                       35 hrs 11 mins  >------------------------   04.49 %
+JSON                       22 hrs 50 mins  >------------------------   02.91 %
+Other                      18 hrs 25 mins  >------------------------   02.35 %
 ```
 
 <!--END_SECTION:waka-->
