@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is **Victor Hugo Simões** and I am **Full Stack Web Developer** in **Kasco P&D* since **January, 2023**. There, I work with **T3 Stack Application** with Typescript, TRPC, Next.js, Styled Components, Redis, Bull, Docker, Azure, CI/CD e MUI. Also had oportunity to work with **Clean Architecture** in a backend Node.js application and with a legacy application with Embbed Javascript Template (ejs) with Bootstrap e JQuery.
+My name is **Victor Hugo Simões** and I am **Full Stack Web Developer** in **Kasco P&D** since **January, 2023**. There, I work with **T3 Stack Application** with Typescript, TRPC, Next.js, Styled Components, Redis, Bull, Docker, Azure, CI/CD e MUI. Also had oportunity to work with **Clean Architecture** in a backend Node.js application and with a legacy application with Embbed Javascript Template (ejs) with Bootstrap e JQuery.
 
 I also studied in a Bootcamp at Driven Education and where I learned the base of **Full Stack Developer**! 
 
