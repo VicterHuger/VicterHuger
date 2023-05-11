@@ -15,15 +15,15 @@ I've been working with **TypeScript**, **Next.js**, **TRPC**, **Styled Component
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2022 - To: 09 May 2023
+From: 24 March 2022 - To: 10 May 2023
 
-Total Time: 1,178 hrs 22 mins
+Total Time: 1,186 hrs 53 mins
 
-JavaScript                 462 hrs 15 mins >>>>>>>>>>---------------   39.23 %
-TypeScript                 446 hrs 43 mins >>>>>>>>>----------------   37.91 %
-CSS                        66 hrs 58 mins  >------------------------   05.68 %
-JSON                       42 hrs 8 mins   >------------------------   03.58 %
-HTML                       35 hrs 52 mins  >------------------------   03.04 %
+JavaScript                 462 hrs 19 mins >>>>>>>>>>---------------   38.95 %
+TypeScript                 454 hrs 58 mins >>>>>>>>>>---------------   38.33 %
+CSS                        66 hrs 58 mins  >------------------------   05.64 %
+JSON                       42 hrs 8 mins   >------------------------   03.55 %
+HTML                       35 hrs 52 mins  >------------------------   03.02 %
 ```
 
 <!--END_SECTION:waka-->
