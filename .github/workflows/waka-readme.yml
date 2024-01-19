@@ -20,4 +20,9 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          
+          LANG_COUNT: 7
+          STOP_AT_OTHER: true
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          COMMITTER_NAME: GitHubActionBot
+          AUTHOR_NAME: Victor Hugo Simões
+          AUTHOR_EMAIL: victorhugobs@eq.ufrj.br
