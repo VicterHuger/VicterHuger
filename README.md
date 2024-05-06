@@ -15,7 +15,7 @@ I've been working with **TypeScript**, **Next.js**, **TRPC**, **Styled Component
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2022 - To: 04 May 2024
+From: 24 March 2022 - To: 05 May 2024
 
 Total Time: 2,123 hrs 31 mins
 
@@ -25,7 +25,7 @@ JSON                       77 hrs 30 mins  >------------------------   03.65 %
 Python                     74 hrs 44 mins  >------------------------   03.52 %
 CSS                        69 hrs 28 mins  >------------------------   03.27 %
 YAML                       51 hrs 11 mins  >------------------------   02.41 %
-Bash                       46 hrs 31 mins  >------------------------   02.19 %
+Bash                       46 hrs 32 mins  >------------------------   02.19 %
 ```
 
 <!--END_SECTION:waka-->
