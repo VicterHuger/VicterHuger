@@ -15,7 +15,7 @@ I've been working with **TypeScript**, **Next.js**, **TRPC**, **Styled Component
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2022 - To: 24 August 2024
+From: 24 March 2022 - To: 25 August 2024
 
 Total Time: 2,316 hrs 21 mins
 
