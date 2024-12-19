@@ -1,14 +1,12 @@
 ### Hello there 👋
 
-My name is **Victor Hugo Simões** and I am **Full Stack Web Developer** in **Kasco P&D** since **January, 2023**. There, I work with **T3 Stack Application** with Typescript, TRPC, Next.js, Styled Components, Redis, Bull, Docker, Azure, CI/CD e MUI. Also had oportunity to work with **Clean Architecture** in a backend Node.js application and with a legacy application with Embbed Javascript Template (ejs) with Bootstrap e JQuery.
+My name is **Victor Hugo Simões** and I am **Full Stack Web Developer** in **Kasco P&D** since **January, 2023**. There, I work with **T3 Stack Application** with Typescript, TRPC, Next.js, Styled Components, Redis, Bull, Docker, Azure, CI/CD, Shadcn e MUI. I also have worked with **Clean Architecture** in a backend Node.js application and with a legacy application with Embbed Javascript Template (ejs) with Bootstrap e JQuery. I developed APIs with Python - FastAPI, Django - for videos and images AI inference with Yolo and Triton models. 
 
 I also studied in a Bootcamp at Driven Education and where I learned the base of **Full Stack Developer**! 
 
-I am also finishing my chemical engineering course at Federal University of Rio de Janeiro! 
+I am a Chemical engineer, studied course at Federal University of Rio de Janeiro! 
 
-In the Bootcamp, I produced 25+ projects - **10 outstanding web applications front-end projects, 9 web applications back-end projects and 6 web applications full stack projects**!
-
-I've been working with **TypeScript**, **Next.js**, **TRPC**, **Styled Components**, **Material UI**, **Redis**, **Docker**, **Azure**, **AWS**, **Bull(Queues)**, **Jest**, **Supertest**, **Cypress**, **Playwright** ,**Postgres**, **MongoDB**, **Prisma**, **Node.js**,**React.js**, **Javascript**, **CSS** and **HTML**, but I have interest in learning others languages like **Java** and **React Native**. 
+I've been working with **TypeScript**, **Next.js**, **TRPC**, **Shadcn**, **Styled Components**, **Material UI**, **Redis**, **Docker**, **Azure**, **AWS**, **BullMQ(Queues)**, **Jest**, **Supertest**, **Cypress**, **Playwright** ,**Postgres**, **MongoDB**, **Prisma**, **Node.js**,**React.js**, **Python**, **Javascript**, **CSS** and **HTML**, but I have interest in learning others languages like **Java** and **React Native**. 
 
 [![wakatime](https://wakatime.com/badge/user/b2f5c0ff-9b1c-4d58-9d1d-3119af5359d0.svg)](https://wakatime.com/@b2f5c0ff-9b1c-4d58-9d1d-3119af5359d0)
 
