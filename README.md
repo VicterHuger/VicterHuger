@@ -13,16 +13,16 @@ I've been working with **TypeScript**, **Next.js**, **TRPC**, **Shadcn**, **Styl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2022 - To: 01 August 2025
+From: 24 March 2022 - To: 02 August 2025
 
-Total Time: 3,173 hrs 4 mins
+Total Time: 3,176 hrs 28 mins
 
-TypeScript                 1,896 hrs 58 mins>>>>>>>>>>>>>>>----------   59.78 %
-JavaScript                 598 hrs 58 mins >>>>>--------------------   18.88 %
+TypeScript                 1,900 hrs 20 mins>>>>>>>>>>>>>>>----------   59.83 %
+JavaScript                 598 hrs 58 mins >>>>>--------------------   18.86 %
 JSON                       109 hrs 53 mins >------------------------   03.46 %
 Bash                       87 hrs 31 mins  >------------------------   02.76 %
 Python                     81 hrs 19 mins  >------------------------   02.56 %
-YAML                       71 hrs 17 mins  >------------------------   02.25 %
+YAML                       71 hrs 17 mins  >------------------------   02.24 %
 CSS                        69 hrs 53 mins  >------------------------   02.20 %
 ```
 
