@@ -13,7 +13,7 @@ I've been working with **TypeScript**, **Next.js**, **TRPC**, **Shadcn**, **Styl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2022 - To: 06 June 2026
+From: 24 March 2022 - To: 07 June 2026
 
 Total Time: 3,758 hrs 54 mins
 
